@@ -1,5 +1,3 @@
-# Mikai Somerville, msom375, 908905231 - AssCool.py
-
 # Import Tkinter for the GUI
 from tkinter import *
 from tkinter.font import *
